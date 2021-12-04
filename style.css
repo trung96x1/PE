@@ -1,0 +1,19 @@
+.body{
+    width: 300px;
+    height: 400px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.element{
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#price, #number, #btnCalculate{
+    margin-top: 20px;
+}
